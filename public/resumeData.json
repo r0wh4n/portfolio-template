@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"ROWH4N",
+    "description":"A Full Stack Developer",
+    "image":"profilepic.jpg",
+    "bio":"An enthusiastic fresher who is a self-starter and capable to use technical skills for the betterment of the organization.Proficiency in Frontend and looking forward to work in a competitive environment that enhances overall learning.",
+    "email": "rohanpandey228@gmail.com",
+    "github":"https://github.com/r0wh4n",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/r0wh4n",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/r0wh4n",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/r0wh4n",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"CBSE Board",
+        "degree":"Intermediate Pass",
+        "graduated":"Sep 2021"
+      },
+      {
+        "school":"Delhi University School of Open Learning",
+        "degree":"BA Prog.",
+        "graduated":"Currently Ongoing"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"30%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"75%"
+      },
+      {
+        "name":"Ruby",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Web Torrenter",
+        "category":"This is a tool that allows users to easily download movies from torrent in just a few simple steps.",
+        "image":"01.jpg",
+        "url":"https://github.com/r0wh4n/Web-Torrenter"
+      },
+      {
+        "title":"Small Github Projects",
+        "category":"A Collection of my Small Python Projects that I've been working on. It has a README file with a detailed explanation of the project",
+        "image":"02.jpg",
+        "url":"https://github.com/r0wh4n/small-projects"
+      },
+      {
+        "title":"News Extension",
+        "category":"Please note that in order to utilize the full functionality of this news extension, it is required to have an API account with the respective news source.",
+        "image":"03.jpg",
+        "url":"https://github.com/r0wh4n/News-extension"
+      },
+      {
+        "title":"Temp Wallpaper Widget",
+        "category":"GUI for weather app and It changes desktop wallpaper too",
+        "image":"04.jpg",
+        "url":"https://github.com/r0wh4n/temp-wall-widget"
+      }
+    ]
+  }
+}
