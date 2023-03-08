@@ -1,29 +1,34 @@
-# React Nice Resume :page_with_curl:
+# Portfolio Website
+Welcome to my portfolio website! This site showcases my skills, projects, and experience in the field of web development.
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### Technologies Used
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+ReactJS
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+Particles-bg
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+### Features
 
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+Responsive design
+Clean and modern layout
+Easy navigation
+Project showcases
+Contact
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+### Getting Started
 
-# Run Project
-### 1. Clone the project
+Clone the repository: git clone git@github.com:r0wh4n/Portfolio.git
 
-### 2. Run the project
-```shell
-npm i
-npm start
-```
+Navigate to the repo directory using the command
 
-### 3. Build
-```shell
-npm run build
-```
+Install the dependencies by using "npm install". This will install all the necessary packages and dependencies needed to run your website.
+
+After installation is complete, you can start the development server by running the command "npm start". This will compile and run your website, and open it in your default browser.
+
+### Deployment
+
+This website is deployed on Github pages.
+
+### Contact
+ 
+For any questions or feedback, please contact me at rohanpandey228@gmail.com . Thank you for visiting my portfolio website!
