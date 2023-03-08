@@ -1,5 +1,5 @@
-# Portfolio Website
-Welcome to my portfolio website! This site showcases my skills, projects, and experience in the field of web development.
+# React JS Portfolio Template
+This is a portfolio template built using React JS. The template is designed to be simple, yet elegant and customizable, allowing developers to easily showcase their work and projects.
 
 ### Technologies Used
 
@@ -10,24 +10,34 @@ Particles-bg
 ### Features
 
 Responsive design
-Clean and modern layout
-Easy navigation
-Project showcases
-Contact
 
-### Getting Started
+Minimal and clean layout
 
-Clone the repository: git clone git@github.com:r0wh4n/Portfolio.git
+Customizable colors and styles
 
-Navigate to the repo directory using the command
+Easy to add new projects and sections
 
-Install the dependencies by using "npm install". This will install all the necessary packages and dependencies needed to run your website.
+Built with modern web technologies
 
-After installation is complete, you can start the development server by running the command "npm start". This will compile and run your website, and open it in your default browser.
+### Usage
 
-### Deployment
+To use this template for your own portfolio:
 
-This website is deployed on Github pages.
+
+Clone the repository to your local machine.
+
+Install the required dependencies by running npm install in the project directory.
+
+Customize the content and styling to your liking.
+
+Add your own projects and sections to showcase your work.
+
+Deploy the website to your preferred hosting platform.
+
+### Contributing
+
+
+Contributions are welcome and appreciated! If you find a bug, have a suggestion, or would like to contribute code, please open an issue or pull request on this repository.
 
 ### Contact
  
